@@ -1,0 +1,7 @@
+﻿  prog.cpp
+  function.cpp
+D:\!PROGRAMMINGPROJECT\ConsoleApplication1\function.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\!PROGRAMMINGPROJECT\ConsoleApplication1\function.cpp(54,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\!PROGRAMMINGPROJECT\ConsoleApplication1\function.cpp(100,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\!PROGRAMMINGPROJECT\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
