@@ -1,0 +1,3 @@
+﻿  prog.cpp
+D:\!PROGRAMMINGPROJECT\ConsoleApplication1\prog.cpp(29,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\!PROGRAMMINGPROJECT\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
